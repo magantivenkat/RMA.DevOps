@@ -1,5 +1,6 @@
 namespace API
 {
+    //Comments
     public class WeatherForecast
     {
         public DateOnly Date { get; set; }
